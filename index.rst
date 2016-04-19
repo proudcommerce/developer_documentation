@@ -13,4 +13,5 @@ Table of Contents
    modules/index
    themes/index
 
-`Other resources <http://wiki.oxidforge.org/Tutorials>`_
+- :doc:`Conventions for writing developer documentation <conventions>`
+- `Other resources <http://wiki.oxidforge.org/Tutorials>`_

@@ -8,6 +8,11 @@ Sections
   Otherwise last one would be as document name in Sphinx menu.
 - `Subsequent headers <http://docutils.sourceforge.net/docs/user/rst/quickref.html#section-structure>`__ should be marked with ``---``, ``^^^``, ``"""``, ``~~~`` etc.
 
+External links
+--------------
+
+To be done...
+
 Use Ref or Doc for links
 ------------------------
 
@@ -70,3 +75,13 @@ Not suffixed with date:
 .. code::
 
    .. _conventions_for_development_wiki_rst_document:
+
+Images
+------
+
+To be done...
+
+Diagrams
+--------
+
+To be done...

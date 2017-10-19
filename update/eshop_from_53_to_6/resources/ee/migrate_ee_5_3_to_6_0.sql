@@ -198,14 +198,14 @@ CREATE TABLE IF NOT EXISTS `oxmigrations_ce` (
   PRIMARY KEY (`version`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 INSERT IGNORE INTO `oxmigrations_ce` (`version`) VALUES
-  ('20170718124421');
+  ('20170718124421', '20171018144650');
 
 CREATE TABLE IF NOT EXISTS `oxmigrations_ee` (
   `version` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
   PRIMARY KEY (`version`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 INSERT IGNORE INTO `oxmigrations_ee` (`version`) VALUES
-  ('20160919103142_pe_to_ee');
+  ('20160919103142_pe_to_ee', '20171018144650');
 
 CREATE TABLE IF NOT EXISTS `oxmigrations_pe` (
   `version` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
